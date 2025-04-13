@@ -49,7 +49,7 @@ from .. import (
     wmbus_ns
 )
 
-CODEOWNERS = ["@SzczepanLeon"]
+CODEOWNERS = ["@skydarc"]
 
 WMBusListener = wmbus_ns.class_('WMBusListener')
 FrameMode = wmbus_ns.enum("FrameMode")
